@@ -1,0 +1,36 @@
+* {
+  font-size: 16px;
+}
+
+.container {
+  width: 1250px;
+}
+
+.menu ul li a.active {
+  color: black;
+}
+
+.banner {
+  background-image: url(./assets/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+
+.title-banner {
+  font-size: 320%;
+}
+
+.w-1250 {
+  width: 1250px;
+}
+
+.banner-2 {
+  background-image: url(./assets/content/background.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+
